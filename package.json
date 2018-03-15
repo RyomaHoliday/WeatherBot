@@ -1,0 +1,22 @@
+{
+  "name": "myBotApp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "botkit": "^0.6.11"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/my-glitch-app"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
